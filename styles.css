@@ -1,0 +1,100 @@
+body{
+  margin:auto;
+  text-align:center;
+   background-color: #316B83;
+  /* background-image: url(https://images.pexels.com/photos/2693212/pexels-photo-2693212.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+}
+
+h1{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2.5rem;
+}
+h2{
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family:'Anton', sans-serif;
+}
+p{
+  color:#000000;
+  font-family:'Anton', sans-serif
+}
+
+
+.top-container{
+   background-color:#316B83;
+  /* background-image: url(https://images.pexels.com/photos/2693212/pexels-photo-2693212.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+  margin:auto;
+  text-align: center;
+  position: relative;
+}
+.middle-container{
+  padding-left:300px;
+  padding-right: 300px;
+  background-color:#316B83;
+  /* background-image: url(https://images.pexels.com/photos/2693212/pexels-photo-2693212.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+  margin-bottom:auto;
+}
+.bottom-container{
+
+  background-color: #316B83;
+  /* background-image: url(https://images.pexels.com/photos/2693212/pexels-photo-2693212.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+  margin:0;
+}
+
+.eagle{
+  width:5%;
+}
+
+.sun-pic{
+  width:100px;
+  height: 100px;
+  position: absolute;
+  right:450px;
+  top:100px;
+}
+
+.profile-photo{
+  width: 25%;
+  height:25%;
+  border-radius: 50%;
+  padding-top:2rem;
+}
+.coding{
+  width:20%;
+  height:20%;
+  float: left;
+  padding-right: 50px;
+  border-radius: 8px;
+}
+.darth{
+  width:20%;
+  height:20%;
+  float: right;
+  padding-top: 100px;
+  padding-right: 10px;
+  border-radius: 8px;
+}
+.contact{
+  align-items: center;
+  margin: auto;
+  width: 20%;
+}
+.horizontal{
+  border: dotted;
+  border-bottom: none;
+  padding-top:none;
+  margin:0 auto;
+  width: 3%;
+
+}
+
+.game{
+  padding-top: 100px;
+  color: white;
+}
+.yu{
+  color: white;
+}
+.joker{
+  color: white;
+}
